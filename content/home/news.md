@@ -50,4 +50,5 @@ subtitle = "[More News <i class='fa fa-angle-double-right'></i>](/~lk340621/news
  css_class = ""
 +++
 
-- **a**
+- **Jun. 24th, 2020**
+Kang finished his undergraduate program and got his Bachelor degree.
