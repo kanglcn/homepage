@@ -1,3 +1,4 @@
 #!/usr/bash
 
 hugo --baseUrl="http://home.ustc.edu.cn/~lk340621/" -d ./public_html
+hugo --baseUrl="http://p2.smu.edu/kangl" -d ./smu_p2
