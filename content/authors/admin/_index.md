@@ -76,6 +76,8 @@ He has a passion for developing InSAR technique, applying it to further understa
 
 He always have curiosity about fancy but useful knowledge, tools and techniques. And he is a hardcore fan of Rock & Roll. His favorite musician is [Cui Jian][cuijian].
 
+This website has been moved to <https://p2.smu.edu/kangl>. This site will not update any more.
+
 [smu]:<https://www.smu.edu/>
 [zhonglu]:<https://www.smu.edu/Dedman/Academics/Departments/Earth-Sciences/People/Faculty/Lu>
 [cuijian]:<http://www.cuijian.com/>
