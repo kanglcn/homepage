@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate student of Geophysics
+role: PhD student of Geophysics
 
 # Organizations/Affiliations
 organizations:
-- name: University of Science and Technology of China
-  url: "https://www.ustc.edu.cn/"
+- name: Southern Methodist University
+  url: "https://www.smu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include InSAR processing, Geodynamics, Machine Learning.
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:lk340621@mail.ustc.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:kangl@smu.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: blog
   icon_pack: fas
   link: https://kanglcn.github.io
@@ -70,7 +70,7 @@ social:
 #- Visitors
 ---
 
-Kang Liang is currently an undergraduate student in USTC. He is going to be a PhD student in [Southern Methodist University][smu] advised by [Prof. Zhong Lu][zhonglu] in fall 2020.
+Kang Liang is currently a PhD student in [Southern Methodist University][smu] advised by [Prof. Zhong Lu][zhonglu] from fall 2020.
 
 He has a passion for developing InSAR technique, applying it to further understanding and characterizing geodynamic phenomena(e.g. Volcano and landslide). He is alse interested in machine learning and try to combine it with his work.
 
