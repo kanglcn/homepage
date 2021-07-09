@@ -81,16 +81,16 @@ edit_page = {}
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "lk340621@mail.ustc.edu.cn"
+email = "kangl@smu.edu"
 phone = "+86 15222913751"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Jinzhai Road", city = "Hefei", region = "Anhui", postcode = "230026", country = "China", country_code = "CN"}
+address = {street = "6425 Boaz Lane", city = "Dallas", region = "Texas", postcode = "75275", country = "The United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "31.83853", longitude = "117.26245"}
+coordinates = {latitude = "32.846036", longitude = "-96.784636"}
 
 # Directions for visitors to locate you.
 directions = ""

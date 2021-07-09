@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate student of Geophysics
+role: PhD student of Geophysics
 
 # Organizations/Affiliations
 organizations:
-- name: University of Science and Technology of China
-  url: "https://www.ustc.edu.cn/"
+- name: Southern Methodist University
+  url: "https://www.smu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include volcano and subduction zone.
@@ -40,7 +40,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:lk340621@mail.ustc.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:kangl@smu.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: blog
+  icon_pack: fas
+  link: https://kanglcn.github.io
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -57,13 +60,10 @@ social:
 #- Visitors
 ---
 
-Kang Liang is currently an undergraduate student in USTC. He is going to be a PhD student in [Southern Methodist University][smu] in fall 2020.
 
-He has a passion for understanding and characterizing geodynamic phenomena at subduction zone(e.g. Volcano).
+Kang Liang is currently a PhD student in [Southern Methodist University][smu] advised by [Prof. Zhong Lu][zhonglu] from fall 2020.
 
 He is a hardcore fan of Rock & Roll. His favorite musician is [Cui Jian][cuijian] and Bon Jovi.
-
-This website has been moved to <https://p2.smu.edu/kangl>. This site will not update any more.
 
 [smu]:<https://www.smu.edu/>
 [cuijian]:<http://www.cuijian.com/>
